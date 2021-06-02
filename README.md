@@ -31,7 +31,7 @@ Gridland | http://gridland.doublespeakgames.com/
 
 Record Dealer Simulator | https://dealsim.createos.app/
 
-Bitlisten: https://www.bitlisten.com/
+Bitlisten | https://www.bitlisten.com/
 
 Bouncing DVD Logo | https://www.bouncingdvdlogo.com/
 
