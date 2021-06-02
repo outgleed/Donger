@@ -21,7 +21,7 @@ WebGL Fluid Simulation | https://paveldogreat.github.io/WebGL-Fluid-Simulation/
 
 Poolside FM | https://poolside.fm/
 
-This Website Will Self-Destruct | https://www.thiswebsitewillselfdestruct.com/ | Note: PLEASE LEAVE A NOTE TO HIM TO KEEP IT ALIVE
+This Website Will Self-Destruct | https://www.thiswebsitewillselfdestruct.com/ | Note: PLEASE LEAVE A NOTE TO HIM TO KEEP IT ALIVE | Note2: Say Jay sent you : )
 
 Blacklight | https://themarkup.org/blacklight | Notes: Inspect websites privacy with your data, and, it is fairly accurate. JUST KNOW WITH SITES LIKE FACEBOOK IT DOESNT COUNT BECAUSE IT TRACKS YOU WHEN YOU MAKE A ACCOUNT!
 
@@ -34,3 +34,15 @@ Record Dealer Simulator | https://dealsim.createos.app/
 Bitlisten: https://www.bitlisten.com/
 
 Bouncing DVD Logo | https://www.bouncingdvdlogo.com/
+
+Mr Nice Hands | http://www.misternicehands.com/
+
+Starbucks Everywhere | http://www.starbuckseverywhere.net/ | Notes: I want to join Winter. I love starbucks.
+
+Longest Video on YouTuber | https://www.youtube.com/watch?v=8kEWxIl200s&t=0s
+
+Rainy Mood | https://www.rainymood.com/
+
+The Wub Machinge | https://the.wubmachine.com/
+
+Incredibox | https://www.incredibox.com/demo/
