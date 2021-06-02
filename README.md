@@ -46,3 +46,13 @@ Rainy Mood | https://www.rainymood.com/
 The Wub Machinge | https://the.wubmachine.com/
 
 Incredibox | https://www.incredibox.com/demo/
+
+FlipScript | https://flipscript.com/en/flip | Note: I think they have trackers, but just open it in a VM if u want...
+
+Just Flip a Coin | https://justflipacoin.com/
+
+HSIMP | https://howsecureismypassword.net/
+
+Pointer Pointer | https://pointerpointer.com/
+
+TPDNE | https://thispersondoesnotexist.com/ | Warning: Some are kinda creepy...
