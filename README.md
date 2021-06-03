@@ -56,3 +56,5 @@ HSIMP | https://howsecureismypassword.net/
 Pointer Pointer | https://pointerpointer.com/
 
 TPDNE | https://thispersondoesnotexist.com/ | Warning: Some are kinda creepy...
+
+Windows 93 | https://www.windows93.net/ | Notes:  THIS IS SO COOL IT IS LITTERLY A PC IN A BROWSER IN YOUR PC!!!
